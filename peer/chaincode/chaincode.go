@@ -12,7 +12,9 @@ import (
 
 	"github.com/hyperledger/fabric/common/flogging"
 	"github.com/hyperledger/fabric/peer/common"
+	//Cobra is both a library for creating powerful modern CLI applications as well as a program to generate applications and command files.
 	"github.com/spf13/cobra"
+	//pflag is a drop-in replacement for Go's flag package, implementing POSIX/GNU-style --flags.
 	"github.com/spf13/pflag"
 )
 
